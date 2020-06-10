@@ -87,7 +87,7 @@ Automated ML is supported by three execution environments:
 
 <a name="automlUI"></a>
 ## Lab Part 1. Train a regression model using the Automated ML UI
-In part 1 of the lab you will get to build an automated machine learning model using our UI. To get started head to [Lab 1](https://github.com/Aniththa/MLADS-2020-LAB-AutomatedML/blob/master/Lab%20Part%201%20-%20AutoML%20UI/Lab%20Part%201%20-%20AutoML%20UI.md) folder.
+In part 1 of the lab you will get to build an automated machine learning model using our UI. To get started head to [Lab 1](https://github.com/Aniththa/KDD-20-AutoML/blob/master/Lab%20Part%201%20-%20AutoML%20UI/Lab%20Part%201%20-%20AutoML%20UI.md) folder.
 
 <a name="compute"></a>
 ## Using Compute Instances - Jupyter based notebooks from a Azure Virtual Machine
