@@ -1,4 +1,10 @@
 # KDD'20: From Zero to AI Hero with Automated Machine Learning 
+### Presenters: 
+Aniththa Umamahesan, Program Manager
+Deepak Mukunthu Iyappan Babu,  Principal Program Manager
+Cesar De la Torre Lorente, Principal Program Manager
+Anup Shirgaonkar, Principal Data & Applied Scientist
+
 The content below is a guide for a self-paced lab to understand the E2E Automated Machine Learning capabilities both through the Python code experience and UI no-code experience. 
 
 While it's not required, a basic understanding of Azure Machine Learning will be helpful for understanding the solution. The following resources can help introduce you to AML:
