@@ -1,9 +1,8 @@
 # KDD'20: From Zero to AI Hero with Automated Machine Learning 
 ### Presenters: 
 * Aniththa Umamahesan, Program Manager
-* Deepak Mukunthu Iyappan Babu,  Principal Program Manager
-* Cesar De la Torre Lorente, Principal Program Manager
-* Anup Shirgaonkar, Principal Data & Applied Scientist
+* Shané Winner, Program Manager
+* Kiana Mousavi, Program Manager
 
 The content below is a guide for a self-paced lab to understand the E2E Automated Machine Learning capabilities both through the Python code experience and UI no-code experience. 
 
