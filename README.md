@@ -85,7 +85,7 @@ Automated ML is supported by three execution environments:
 * Azure Databricks 
 
 <a name="automlUI"></a>
-## Lab Part 1. Train a regression model using the Automated ML UI
+## Lab Part 1. Train a classification model using the Automated ML UI
 In part 1 of the lab you will get to build an automated machine learning model using our UI. To get started head to [Lab 1](https://github.com/Aniththa/KDD-20-AutoML/blob/master/Lab%20Part%201%20-%20AutoML%20UI/Lab%20Part%201%20-%20AutoML%20UI.md) folder.
 
 <a name="compute"></a>
@@ -120,6 +120,6 @@ To clone this git repository onto the workspace, follow the steps below:
 4. You will be prompted to provide your github username and for your password you will need to provide a personal access token. Please follow the steps here to [create a personal access token.](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) 
 
 <a name="train"></a>
-## Lab Part 2. Train a classification model using Automated ML in JupyertLab
-In this part of the lab we will be covering how you can train a classification model in a code first experience with AutoML. To get started open **Lab Part 2 - AutoML Python SDK.ipynb** from the  Lab 2 folder in jupyter lab.
+## Lab Part 2. Train a forecasting model using Automated ML in JupyertLab
+In this part of the lab we will be covering how you can train a forecasting model in a code first experience with AutoML. To get started open **Lab Part 2 - AutoML Python SDK.ipynb** from the  Lab 2 folder in jupyter lab.
 
